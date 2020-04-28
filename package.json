@@ -6,8 +6,6 @@
     "addall": "git add ."
   },
   "devDependencies": {
-    "@lerna/project": "^3.18.0",
-    "cz-lerna-changelog": "^2.0.2",
     "lerna": "^3.20.2"
   },
   "config": {
