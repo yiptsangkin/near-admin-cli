@@ -3,9 +3,11 @@
   "private": true,
   "scripts": {
     "commit": "git-cz",
-    "addall": "git add ."
+    "addall": "git add .",
+    "genlog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "devDependencies": {
+    "cz-lerna-changelog": "^2.0.2",
     "lerna": "^3.20.2"
   },
   "config": {
