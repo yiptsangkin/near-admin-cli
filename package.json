@@ -13,7 +13,7 @@
     "husky": "^4.2.5",
     "lerna": "^3.20.2",
     "lint-staged": "^10.1.7",
-    "semantic-release": "^15.14.0",
+    "semantic-release": "^17.2.3",
     "standard": "^14.3.3"
   },
   "config": {
